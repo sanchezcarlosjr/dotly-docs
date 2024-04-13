@@ -1,3 +1,8 @@
+---
+title: Restore your dotfiles
+description: Restart your dotfiles
+---
+
 # 🚀 Installation
 
 ## 📋 Restore options

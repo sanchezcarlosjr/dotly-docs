@@ -1,3 +1,8 @@
+---
+title: Common issues
+description: General troubleshooting
+---
+
 ## Zimfw is not working after restore my dotfiles
 1. Delete shell/zsh/.zim 
 2. Run 

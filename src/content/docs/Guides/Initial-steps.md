@@ -1,3 +1,8 @@
+---
+title: Getting started
+description: Installation
+---
+
 # 🚀 Installation
 
 ## 🏠 Production installation

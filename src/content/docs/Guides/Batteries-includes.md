@@ -1,3 +1,8 @@
+---
+title: Batteries includes
+description: A guide to dot command
+---
+
 - ## dot command
     - Running `dot` will display all available global scripts
         ```bash
