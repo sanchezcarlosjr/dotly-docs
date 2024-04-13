@@ -3,25 +3,14 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://sanchezcarlosjr.github.io',
+  base: "dotly",
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Dotly Docs',
 			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
-			],
-		}),
+				github: 'https://github.com/CodelyTV/dotly'
+			}
+		})
 	],
 });
